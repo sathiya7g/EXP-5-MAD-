@@ -4,7 +4,7 @@
 
 ## AIM:
 
-To create your own content providers to get contacts details using Android Studio.
+To create your own content providers to get contacTs details using Android Studio.
 
 ## EQUIPMENTS REQUIRED:
 
